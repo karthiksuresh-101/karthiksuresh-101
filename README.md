@@ -5,7 +5,7 @@
 A curious Data Analytics & AI enthusiast with a background in Electronics & Communication Engineering.
 I'm currently building skills across Excel, SQL, Python, Tableau/Power BI, and strengthening my understanding of business fundamentals to become a strong industry-ready data analyst.
 
-### 👨‍💻 About Me?
+### About Me?
 
 I'm someone who loves solving problems, understanding how systems work, and telling stories with data.
 Right now, I’m shaping my career toward:
@@ -30,9 +30,9 @@ GitHub Issues / Discussions: Open to chat, collaborate, or answer questions
 
 Feel free to reach out if you'd like to collaborate on data projects or if you’re a recruiter looking for someone who learns fast, executes consistently, and enjoys making things better with data.
 
-###  Fun Facts About Me
+### Fun Facts About Me
 
-- A bit too competitive at times
 - On the thin line b/w a Ambivert and Extrovert
-- Love Pets
-- ** Hobbies **: gym,learning things,
+- Love to play volleyball 
+- Cat & Dog <3
+
