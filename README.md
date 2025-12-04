@@ -26,13 +26,10 @@ I work with Excel, SQL, Python, and Tableau/Power BI to clean, explore, analyze,
 
 [Email](mailto:karthiksuresh.priv@gmail.com)
 
-GitHub Issues / Discussions: Open to chat, collaborate, or answer questions
-
-Feel free to reach out if you'd like to collaborate on data projects or if you’re a recruiter looking for someone who learns fast, executes consistently, and enjoys making things better with data.
+Feel free to reach out if you'd like to collaborate or ask questions on data projects or if you’re a recruiter looking for someone who learns fast, executes consistently, and enjoys making things better with data.
 
 ### Fun Facts About Me
 
-- On the thin line b/w a Ambivert and Extrovert
 - Love to play volleyball 
 - Cat & Dog <3
-
+- Cold Coffee🧋
