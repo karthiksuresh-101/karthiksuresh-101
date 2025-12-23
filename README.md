@@ -16,7 +16,7 @@ I work with Excel, SQL, Python, and Tableau/Power BI to clean, explore, analyze,
 
 ### How to Reach Me
 
-[LinkedIn:](https://www.linkedin.com/in/karthik-suresh-ks010)
+[LinkedIn](https://www.linkedin.com/in/karthik-suresh-ks010)
 
 [Email](mailto:karthiksuresh.priv@gmail.com)
 
