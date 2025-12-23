@@ -2,12 +2,12 @@
 
 ### I'm Karthik
 
-A curious Data Analytics & AI enthusiast with a background in Electronics & Communication Engineering.
+A curious Analytics & AI enthusiast with a background in Electronics & Communication Engineering.
 I'm currently building skills across Excel, SQL, Python, Tableau/Power BI, and strengthening my understanding of business fundamentals to become a strong industry-ready data analyst. I enjoy learning things from scratch, documenting them, and turning everything I learn into practical, real-world projects.
 
 ###  What I'm Currently Working On
 
-I’m currently focused on building and upskilling myself to be a job-ready data analyst by consistently building real-world portfolio projects and documenting my progress through a study series on LinkedIn. Step by step, I’m also expanding my skills toward data forecasting and finance analytics as part of my long-term growth path.
+I’m currently focused on building and upskilling myself to be a job-ready  analyst by consistently building real-world portfolio projects and documenting my progress through a study series on LinkedIn. Step by step, I’m also expanding my skills toward data forecasting and finance analytics as part of my long-term growth path.
 
 ###  Tools & Skills I Use
 
