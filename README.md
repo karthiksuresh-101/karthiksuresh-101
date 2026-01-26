@@ -22,8 +22,8 @@ I work with Excel, SQL, Python, and Tableau/Power BI to clean, explore, analyze,
 
 Feel free to reach out if you'd like to collaborate or ask questions on data projects or if you’re a recruiter looking for someone who learns fast, executes consistently, and enjoys making things better with data.
 
-### Fun Facts About Me
+### Fun Stuff I like
 
-- Love to play volleyball 
+- Volleyball 
 - Cat & Dog <3
 - Cold Coffee🧋
