@@ -2,7 +2,7 @@
 
 ### I'm Karthik
 
-A curious Analytics & AI enthusiast with a background in Electronics & Communication Engineering.
+A curious Analytics & Business enthusiast with a background in Electronics & Communication Engineering.
 I'm currently building skills across Excel, SQL, Python, Tableau/Power BI, and strengthening my understanding of business fundamentals to become a strong industry-ready data analyst. I enjoy learning things from scratch, documenting them, and turning everything I learn into practical, real-world projects.
 
 ###  What I'm Currently Working On
